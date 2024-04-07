@@ -1,12 +1,13 @@
-🚀 Elevate Your Tech Team with Alex Lai - Full Stack & Mobile Dev Expert, fast learner.
+🚀 Elevate Your Tech Team with Alex Lai - Full Stack & Mobile Dev Expert, Tesla Software Engineer Intern & fast learner.
 
-Welcome to my profile! I'm Alex Lai, a results-driven Computer Science graduate from the University of Washington, armed with a track record of transforming ideas into powerful software solutions. 🌟
+Welcome to my profile! I'm Alex Lai, a results-driven Computer Science student from University of Washington Bothell, armed with a track record of transforming ideas into powerful software solutions. 🌟
 
 🛠 Key Strengths:
 
 Zillow Impact: Led a team in developing a Clickstream Reporting tool, elevating user experience by 35%.
 Datadog Dynamo: Achieved an 80% boost in data processing speed by revamping the data routing layer.
 ML Companies Innovator: Slashed data errors in real estate listings by 50% through collaborative Git-based version control.
+
 🌐 Technical Expertise:
 
 Languages: Java, C++, Python, Swift
